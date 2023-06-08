@@ -17,8 +17,6 @@ Let's build a tech-powered future together! 🌍💻✨
 ## Stats 🔢
 ![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanloplato&count_private=true&show_icons=true&theme=radical)
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanloplato)](https://github.com/stanloplato/github-readme-stats)
 
 ### Contact Me 
 Email: stanley.kc2008@ gmail.com
