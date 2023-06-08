@@ -14,9 +14,5 @@ As a dedicated tech enthusiast, I am committed to open-source collaboration and 
 
 Let's build a tech-powered future together! 🌍💻✨
 
-## Stats 🔢
-![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanloplato&count_private=true&show_icons=true&theme=radical)
-
-
 ### Contact Me 
 Email: stanley.kc2008@ gmail.com
