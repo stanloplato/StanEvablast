@@ -12,7 +12,16 @@ Skills:
 
 As a dedicated tech enthusiast, I am committed to open-source collaboration and fostering innovation. You can find my exciting projects and contributions on my GitHub repositories.
 
-Let's build a tech-powered future together! 🌍💻✨
+## Contact Me 📞
 
-### Contact Me 
-Email: stanley.kc2008@ gmail.com
+Feel free to reach out to me for any inquiries, collaborations, or just to say hello! I'm always excited to connect with fellow developers and tech enthusiasts.
+
+📧 Email: [stanley.kc2008@gmail.com](mailto:stanley.kc2008@gmail.com)
+
+🌐 Website: 
+
+🔗 LinkedIn: [https://www.linkedin.com/in/stanley-onwuemene-bb95872a](https://www.linkedin.com/in/stanley-onwuemene-bb95872a)
+
+🐦 Twitter: [@stanleykc](https://twitter.com/stanleykc)
+
+Let's connect and create something amazing together! 🚀💻✨
